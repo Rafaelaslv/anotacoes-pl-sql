@@ -1,6 +1,17 @@
 # anotacoes-pl-sql
-Minhas anotações dos conhecimentos obtidos através do curso de PL/SQL disponível na plataforma Udemy.
+Minhas anotações dos conhecimentos obtidos sobre PL/SQL.
 
 Todo SGBD (Oracle, My SLQ Server, Postg...) possui uma linguagem de programacao propria 
 
-PL/SQL é uma extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation. É uma linguagem procedural da Oracle que estende a linguagem SQL. Permite que a manipulação de dados seja incluída em unidades de programas.
+A linguagem SQL possui apenas comandos de manipulacao de dados como leitura, gravacao, alteracao e remocao dos registros.
+
+PL/SQL é uma extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation.
+
+Um bloco de codigos e a estrutura principal de um programa PL/SQL.
+
+As tres secoes da sua estrutura sao:
+
+DECLARE secao onde e declarado as variaveis, constantes e cursores (opc)
+BEGIN / END uma secao (obrig) pois e onde declaramos o objetivo do bloco
+EXCEPTION secao onde se codifica o tratamento de erros.
+
