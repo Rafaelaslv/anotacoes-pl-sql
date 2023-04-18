@@ -1,19 +1,22 @@
-# anotacoes-pl-sql
-Minhas anotações dos conhecimentos obtidos sobre PL/SQL.
+## 👽📣 Hey terráqueos!!
 
-Todo SGBD (Oracle, My SLQ Server, Postg...) possui uma linguagem de programacao propria 
+
+
+### Este repositório conterá minhas anotações dos conhecimentos obtidos sobre PL/SQL através do canal Fulltureschool.
+
+Todo SGBD (ORACLE DATABASE, MYSQL, SQL SERVER, POSTGRESQL...) possui uma linguagem de programação própria. 
 
 A linguagem SQL possui apenas comandos de manipulacao de dados como leitura, gravacao, alteracao e remocao dos registros.
 
-PL/SQL é uma extensão da linguagem padrão SQL para o SGBD Oracle da Oracle Corporation.
+PL/SQL é uma extensão da linguagem padrão SQL para o SGBD Oracle Database da Oracle Corporation.
 
-# COMO ESTRUTURAR BLOCOS DE CODIGONA LINGUAGEM PL/SQL
+#### COMO ESTRUTURAR BLOCOS DE CÓDIGO NA LINGUAGEM PL/SQL
 
-Um bloco de codigos e a estrutura principal de um programa PL/SQL.
+Um bloco de código é a estrutura principal de um programa PL/SQL.
 
-As tres secoes da sua estrutura sao:
+As tres sessões da sua estrutura são:
 
-DECLARE secao onde e declarado as variaveis, constantes e cursores (opc)
+DECLARE onde é declarado as variáveis, constantes e cursores. E é uma opcional.
 BEGIN / END uma secao (obrig) pois e onde declaramos o objetivo do bloco
 EXCEPTION secao onde se codifica o tratamento de erros.
 
