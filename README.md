@@ -16,13 +16,15 @@ Um bloco de código é a estrutura principal de um programa PL/SQL.
 
 As tres sessões da sua estrutura são:
 
-DECLARE onde é declarado as variáveis, constantes e cursores. E é uma opcional.
-BEGIN / END uma secao (obrig) pois e onde declaramos o objetivo do bloco
-EXCEPTION secao onde se codifica o tratamento de erros.
+DECLARE onde é declarado as variáveis, constantes e cursores. E é opcional.
+BEGIN / END uma seção obrigatória pois é onde declaramos o objetivo do bloco.
+EXCEPTION seção onde codificamos o tratamento de erros.
 
-number
+#number
 dbms_output.put_line()
 when others then
-raise_application_error()
+raise_application_error()#
+
+
 
 
