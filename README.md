@@ -4,7 +4,7 @@
 
 ### Este repositório conterá minhas anotações dos conhecimentos obtidos sobre PL/SQL através do canal Fulltureschool.
 
-Todo SGBD (ORACLE DATABASE, MYSQL, SQL SERVER, POSTGRESQL...) possui uma linguagem de programação própria. 
+Todo SGBD (ORACLE DATABASE, MYSQL, SQL SERVER (T-SQL da Microsoft), POSTGRESQL...) possui uma linguagem de programação própria. 
 
 A linguagem SQL possui apenas comandos de manipulacao de dados como leitura, gravacao, alteracao e remocao dos registros.
 
